@@ -8,7 +8,6 @@ import Collabrate from './components/Collabrate';
 import Analytics from './components/Analytics';
 import Desc from './components/Desc';
 import Contact from './components/Contact';
-import Footer from './components/Footer';
 import Nav from './components/Nav';
 import Main from './components/Main';
 
@@ -27,7 +26,7 @@ function App() {
   <Analytics/>
  <Desc/>
  <Contact/>
- <Footer/>
+
 
  
 </div>

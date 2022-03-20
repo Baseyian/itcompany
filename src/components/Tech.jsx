@@ -7,8 +7,7 @@ const Tech = () => {
             <div className="u-container-layout u-container-layout-1" />
           </div>
           <img src="images/fff.jpg" alt className="u-image u-image-default u-image-2" data-image-width={1202} data-image-height={800} />
-          <p className="u-align-left u-text u-text-1">Image from <a href="https://www.freepik.com/free-photos/background" className="u-border-1 u-border-palette-1-base u-btn u-button-link u-button-style u-none u-text-body-alt-color u-btn-1">Freepik</a>
-          </p>
+         
           <div className="u-list u-list-1">
             <div className="u-repeater u-repeater-1">
               <div className="u-container-style u-list-item u-repeater-item u-video-cover u-white u-list-item-1">
