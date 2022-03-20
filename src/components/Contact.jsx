@@ -18,15 +18,15 @@ const Contact = () => {
                               </g>
                             </g><g /><g /><g /><g /><g /><g /><g /><g /><g /><g /><g /><g /><g /><g /><g /></svg></span>
                         <h5 className="u-text u-text-grey-40 u-text-3">Address:</h5>
-                        <p className="u-text u-text-4">121 Rock Sreet, 21 Avenue, <br />New York, NY 92103-9000
+                        <p className="u-text u-text-4">123, Alkoud,<br /> Muscat, Sultanate of Oman
                         </p>
                       </div>
                     </div>
                     <div className="u-container-style u-layout-cell u-size-20 u-white u-layout-cell-2">
                       <div className="u-container-layout u-valign-top u-container-layout-2"><span className="u-border-3 u-border-grey-15 u-icon u-icon-circle u-spacing-20 u-text-grey-40 u-icon-2"><svg className="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 479.058 479.058" style={{}}><use href="#svg-1497" /></svg><svg xmlns="http://www.w3.org/2000/svg" id="svg-1497" enableBackground="new 0 0 479.058 479.058" viewBox="0 0 479.058 479.058" className="u-svg-content"><path d="m434.146 59.882h-389.234c-24.766 0-44.912 20.146-44.912 44.912v269.47c0 24.766 20.146 44.912 44.912 44.912h389.234c24.766 0 44.912-20.146 44.912-44.912v-269.47c0-24.766-20.146-44.912-44.912-44.912zm0 29.941c2.034 0 3.969.422 5.738 1.159l-200.355 173.649-200.356-173.649c1.769-.736 3.704-1.159 5.738-1.159zm0 299.411h-389.234c-8.26 0-14.971-6.71-14.971-14.971v-251.648l199.778 173.141c2.822 2.441 6.316 3.655 9.81 3.655s6.988-1.213 9.81-3.655l199.778-173.141v251.649c-.001 8.26-6.711 14.97-14.971 14.97z" /></svg></span>
                         <h5 className="u-align-center u-text u-text-grey-40 u-text-5">Email:</h5>
-                        <a href="#" className="u-border-active-none u-border-hover-none u-btn u-btn-rectangle u-button-style u-none u-text-body-color u-text-hover-palette-2-base u-btn-1">hello@company.com</a>
-                        <a href="#" className="u-border-active-none u-border-hover-none u-btn u-btn-rectangle u-button-style u-none u-text-body-color u-text-hover-palette-2-base u-btn-2">support@company.com</a>
+                        <a href="mailto:" className="u-border-active-none u-border-hover-none u-btn u-btn-rectangle u-button-style u-none u-text-body-color u-text-hover-palette-2-base u-btn-1">pomptechoman@gmail.com</a>
+
                       </div>
                     </div>
                     <div className="u-align-center u-container-style u-layout-cell u-right-cell u-size-20 u-white u-layout-cell-3">
@@ -34,7 +34,7 @@ const Contact = () => {
                               </g>
                             </g><g /><g /><g /><g /><g /><g /><g /><g /><g /><g /><g /><g /><g /><g /><g /></svg></span>
                         <h5 className="u-text u-text-grey-40 u-text-6">Call us:</h5>
-                        <p className="u-text u-text-7">1 (234) 567-891 <br />1 (234) 987-654
+                        <p className="u-text u-text-7"> +968-97925070 
                         </p>
                       </div>
                     </div>

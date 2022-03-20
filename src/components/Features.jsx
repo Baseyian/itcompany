@@ -4,7 +4,7 @@ const Features = () => {
         <section className="u-align-center u-clearfix u-white u-section-3" id="carousel_7a94">
         <div className="u-clearfix u-sheet u-valign-middle-md u-valign-middle-sm u-valign-middle-xs u-sheet-1">
           <h1 className="u-align-center u-text u-text-1">Key Features</h1>
-          <p className="u-text u-text-2">Sample text. Click to select the text box. Click again or double click to start editing the text.</p>
+          <p className="u-text u-text-2">POMP TechOman is specialized in IT solution, consultancy services, hosting, website design, app development for all platforms including Windows, iOS, and Android, Internet of Things, and Artificial Intelligence</p>
           <img alt className="u-expanded-width-md u-expanded-width-sm u-expanded-width-xs u-image u-image-default u-image-1" src="images/fffffff-min.jpg" data-image-width={1200} data-image-height={800} />
           <div className="u-expanded-width-md u-expanded-width-sm u-expanded-width-xs u-list u-list-1">
             <div className="u-repeater u-repeater-1">
@@ -20,7 +20,7 @@ const Features = () => {
                     <svg className="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 128 128" style={{}}><use href="#svg-20e4" /></svg>
                     <svg xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" version="1.1" space="preserve" className="u-svg-content" viewBox="0 0 128 128" id="svg-20e4"><path d="m78.9 15.9c2.1 0 3.7 1.7 3.7 3.7v3.7h-37.2v-3.7c0-2 1.7-3.7 3.7-3.7h29.8m39.7 14.8-11.6 34.5c-0.5 1.5-1.9 2.5-3.5 2.5h-20.9v-3.7c0-2-1.7-3.7-3.7-3.7h-29.8c-2.1 0-3.7 1.7-3.7 3.7v3.7h-20.9c-1.6 0-3-1-3.5-2.5l-11.6-34.5h109.2m1.5 19.1v58.6c0 2-1.7 3.7-3.7 3.7h-104.7c-2.1 0-3.7-1.7-3.7-3.7v-58.6l5.9 17.7c1.5 4.5 5.8 7.6 10.6 7.6h20.9v3.7c0 2 1.7 3.7 3.7 3.7h29.8c2.1 0 3.7-1.7 3.7-3.7v-3.7h20.9c4.8 0 9.1-3 10.6-7.6l6-17.7m-44.9 17.9v7.4h-22.4v-7.4h22.4m15.3-44.9v-3.2c0-6.4-5.2-11.6-11.6-11.6h-29.8c-6.4 0-11.7 5.2-11.7 11.6v3.2h-29.5c-4.4 0-7.9 3.5-7.9 7.9v77.7c0 6.4 5.2 11.6 11.7 11.6h104.7c6.4 0 11.7-5.2 11.7-11.6v-77.7c0-4.4-3.6-7.9-7.9-7.9h-29.7z" /></svg>
                   </span>
-                  <h4 className="u-align-center u-text u-text-4">Top Skills</h4>
+                  <h4 className="u-align-center u-text u-text-4">IT Solutions</h4>
                 </div>
               </div>
               <div className="u-align-center u-container-style u-custom-item u-list-item u-palette-3-base u-repeater-item u-shape-rectangle">
@@ -36,13 +36,12 @@ const Features = () => {
                     <svg className="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 128 128" style={{}}><use href="#svg-0096" /></svg>
                     <svg xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" version="1.1" space="preserve" className="u-svg-content" viewBox="0 0 128 128" id="svg-0096"><path d="m26.4 108.7c-1.2 0-2.2-1-2.2-2.2s1-2.2 4.7-2.2h48.7v-7.4h-31.2v-9.9h31.2v-8.4h-58.7c-7.7 0-10.6-3-10.6-6.6v-57.1c0-3.7 3-6.6 6.6-6.6h81.2c3.7 0 6.6 3 6.6 6.6v27h8.3v-27c0-8.2-6.7-14.9-14.9-14.9h-81.2c-8.2 0-14.9 6.7-14.9 14.9v57.1c0 8.2 6.7 14.9 14.9 14.9h23.2v10.1h-13.8c-4.3 0-8.5 3.7-8.5 9.5v0.2c0 4.6 3.7 9.3 8.3 9.3h53.5v-7.3h-51.2z" /><path d="m118 41.9h-30c-5.8 0-10.5 4.7-10.5 10.6 0 0 0.1 66.3 0.1 66.4 0 4.3 5.1 9 10.4 9h30c5.6 0 10.2-4.4 10.5-10.1v-65.3c0-5.9-4.7-10.6-10.5-10.6zm2.4 75.5c-0.1 1.3-1.1 2.3-2.4 2.3h-30c-1 0-1.9-0.7-2.2-1.6l-0.2-65.6c0-1.3 1.1-2.4 2.4-2.4h30c1.3 0 2.4 1.1 2.4 2.4v64.9z" /></svg>
                   </span>
-                  <h4 className="u-align-center u-text u-text-6">Responsive</h4>
+                  <h4 className="u-align-center u-text u-text-6">Consultancy</h4>
                 </div>
               </div>
             </div>
           </div>
-          <p className="u-text u-text-7">Image from <a href="https://freepik.com/photos/business" className="u-active-none u-border-1 u-border-grey-75 u-btn u-button-link u-button-style u-hover-none u-none u-text-body-color u-btn-1">Freepik</a>
-          </p>
+        
         </div>
       </section>
     );

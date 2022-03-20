@@ -8,11 +8,10 @@ const Main = () => {
               <div className="u-layout-row">
                 <div className="u-align-left u-container-style u-layout-cell u-left-cell u-shape-rectangle u-size-27 u-layout-cell-1">
                   <div className="u-container-layout u-valign-middle u-container-layout-1">
-                    <h1 className="u-custom-font u-text u-text-body-alt-color u-text-1">Web Software Developers</h1>
-                    <p className="u-text u-text-body-alt-color u-text-2">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum </p>
-                    <p className="u-text u-text-body-alt-color u-text-3">Image from&nbsp;<b>
-                        <a href="https://www.freepik.com/vectors/computer" className="u-border-1 u-border-white u-btn u-button-link u-button-style u-none u-text-body-alt-color u-btn-1" target="_blank">Freepik</a></b>
-                    </p>
+                    <h1 className="u-custom-font u-text u-text-body-alt-color u-text-1">Technology Solutions and Consultancy</h1>
+                    <p className="u-text u-text-body-alt-color u-text-2">POMP TechOman is one of Oman's reputable technology solution providers, offering IT Services and Solutions to help businesses succeed across various domains. POMP TechOman is an Omani owned company whose customers include both public and private organizations in Oman and other GCC countries. It has established itself as one of the market's leading IT Services providers for businesses of all kinds. Our goal at POMP TechOman is to give our customers with high-quality IT services and solutions, including IT solution, consultancy, hosting, website design, app development for all platforms including Windows, iOS, and Android, Internet of Things, and Artificial Intelligence. POMP TechOman can provide you with the IT services you need to ensure that you're employing the proper business technology and getting the most out of your money. </p>
+                    <p className="u-text u-text-body-alt-color u-text-2">The company aims to enrich and nurture the Omani expertise in IT field in collaboration with top international companies and professionals.</p>
+                  
                     <a href="#" className="u-active-palette-4-base u-btn u-btn-round u-button-style u-custom-font u-font-raleway u-hover-palette-4-base u-palette-1-base u-radius-50 u-text-body-alt-color u-btn-2">read more</a>
                   </div>
                 </div>
