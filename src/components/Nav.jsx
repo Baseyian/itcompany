@@ -2,8 +2,8 @@ import React from 'react';
 const Nav = () => {
     return ( 
         <header className="u-clearfix u-header u-palette-2-base u-header" id="sec-2485"><div className="u-clearfix u-sheet u-valign-middle u-sheet-1">
-      <a href="https://nicepage.com" className="u-image u-logo u-image-1">
-        <img src="images/default-logo.png" className="u-logo-image u-logo-image-1" />
+      <a href="/" className="u-image u-logo u-image-1">
+        <img src="images/logo.png" style={{width:"120px"}} className="u-logo-image u-logo-image-1" />
       </a>
       <nav className="u-menu u-menu-dropdown u-offcanvas u-menu-1" data-responsive-from="XL">
         <div className="menu-collapse" style={{fontSize: '1rem', letterSpacing: 0, fontWeight: 700, textTransform: 'uppercase'}}>
